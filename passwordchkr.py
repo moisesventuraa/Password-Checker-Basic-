@@ -5,9 +5,9 @@ score = 0
 
 length = len(subject)
 if length < 8:
-    print("Too short bitch, make it longer")
+    print("Inadequate Length..|")
 else:
-    print("long enough ig...")
+    print("Length Satisfatory..")
     score += 1 
 
 capitals = False
